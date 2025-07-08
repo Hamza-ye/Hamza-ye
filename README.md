@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Hamza
 A Software Engineer curious about new technologies and devocated to learn continuously.
 
-Currently building **DataRun**  [🔗 [Project overview](https://github.com/DataRun-ye) · [Mobile app releases](https://github.com/DataRun-ye/data-run-mobile/releases)]
+Currently building **DataRun**  [🔗 [Project overview](https://github.com/DataRun-ye) · [Mobile app releases](https://github.com/DataRun-ye/data-run-mobile/releases), [App on Google Play](https://play.google.com/store/apps/details?id=org.datarun.app&hl=en)]
 
 ---
 
