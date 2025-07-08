@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Hamza
 A Software Engineer curious about new technologies and devocated to learn continuously.
 
-🚀 Currently building **DataRun** — a full-stack data collection platform with dynamic forms, data flows, and team assignments. Built with Spring Boot, Flutter, PostgreSQL, and MongoDB.  [🔗 [Project overview](https://github.com/DataRun-ye) · [Mobile app releases](https://github.com/DataRun-ye/data-run-mobile/releases)]
+Currently building **DataRun**  [🔗 [Project overview](https://github.com/DataRun-ye) · [Mobile app releases](https://github.com/DataRun-ye/data-run-mobile/releases)]
 
 ---
 
