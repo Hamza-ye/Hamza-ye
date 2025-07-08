@@ -2,7 +2,7 @@
 A Software Engineer curious about new technologies and devocated to learn continuously.
 
 🚀 Currently building **DataRun** — a full-stack data collection platform for dynamic forms, team workflows, and offline-first sync.  
-🔗 [Google Play](https://play.google.com/store/apps/details?id=org.datarun.app&hl=en) • [Overview](https://github.com/DataRun-ye) • [Backend](https://github.com/DataRun-ye/data-run-api) • [SDK](https://github.com/Hamza-ye/drun-sdk-reactive) • [Mobile App](https://github.com/DataRun-ye/data-run-mobile) • [Want to Try App?](https://github.com/orgs/DataRun-ye/discussions/31)
+🔗 [Google Play](https://play.google.com/store/apps/details?id=org.datarun.app&hl=en) • [Overview](https://github.com/DataRun-ye) • [Backend](https://github.com/DataRun-ye/data-run-api) • [SDK](https://github.com/Hamza-ye/drun-sdk-reactive) • [Mobile App](https://github.com/DataRun-ye/data-run-mobile) • [Want to Try The App?](https://github.com/orgs/DataRun-ye/discussions/31)
 
 ---
 
