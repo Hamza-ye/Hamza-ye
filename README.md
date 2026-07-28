@@ -2,7 +2,7 @@
 A Software Engineer curious about new technologies and devocated to learn continuously.
 
 🚀 spending my spare time building my little project **DataRun** — a full-stack data collection platform for dynamic forms, team workflows, and offline-first sync.  
-🔗 [Overview](https://github.com/Hamza-ye/datarun-platform/tree/main/docs) • [Backend](https://github.com/DataRun-ye/data-run-api) • [mobile](https://github.com/DataRun-ye/data-run-mobile) • [Mobile/Desktop Apps](https://github.com/DataRun-ye/data-run-mobile/releases)
+🔗 [Overview](https://github.com/Hamza-ye/datarun-platform/tree/main/docs) • [Spring Boot Backend](https://github.com/DataRun-ye/data-run-api) • [Mobile Repository](https://github.com/DataRun-ye/data-run-mobile) • [Mobile Releases Page](https://github.com/DataRun-ye/data-run-mobile/releases)
 
 
 ---
