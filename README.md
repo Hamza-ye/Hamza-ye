@@ -1,8 +1,8 @@
 ### Hi there 👋 I'm Hamza
 A Software Engineer curious about new technologies and devocated to learn continuously.
 
-🚀 Currently building **DataRun** — a full-stack data collection platform for dynamic forms, team workflows, and offline-first sync.  
-🔗 [Overview](https://github.com/DataRun-ye) • [Backend](https://github.com/DataRun-ye/data-run-api) • [SDK](https://github.com/Hamza-ye/drun-sdk-reactive) • [Mobile/Desktop Apps](https://github.com/DataRun-ye/data-run-mobile/releases)
+🚀 spending my spare time building my little project **DataRun** — a full-stack data collection platform for dynamic forms, team workflows, and offline-first sync.  
+🔗 [Overview](https://github.com/Hamza-ye/datarun-platform/tree/main/docs) • [Backend](https://github.com/DataRun-ye/data-run-api) • [mobile](https://github.com/DataRun-ye/data-run-mobile) • [Mobile/Desktop Apps](https://github.com/DataRun-ye/data-run-mobile/releases)
 
 
 ---
